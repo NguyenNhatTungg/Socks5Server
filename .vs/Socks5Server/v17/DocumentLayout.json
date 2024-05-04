@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qswav\\Desktop\\Socks5Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|c:\\users\\qswav\\desktop\\socks5server\\socks5server\\socks\\headertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|solutionrelative:socks5server\\socks\\headertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|C:\\Users\\qswav\\Desktop\\Socks5Server\\socks5server\\tcp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|solutionrelative:socks5server\\tcp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|C:\\Users\\qswav\\Desktop\\Socks5Server\\socks5server\\tcp\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|solutionrelative:socks5server\\tcp\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|C:\\Users\\qswav\\Desktop\\Socks5Server\\socks5server\\socks\\socksrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|solutionrelative:socks5server\\socks\\socksrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|C:\\Users\\qswav\\Desktop\\Socks5Server\\socks5server\\tcp\\clienteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|solutionrelative:socks5server\\tcp\\clienteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|C:\\Users\\qswav\\Desktop\\Socks5Server\\socks5server\\socks\\streamtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|solutionrelative:socks5server\\socks\\streamtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|C:\\Users\\qswav\\Desktop\\Socks5Server\\socks5server\\socks\\addresstypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|solutionrelative:socks5server\\socks\\addresstypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|C:\\Users\\qswav\\Desktop\\Socks5Server\\socks5server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|solutionrelative:socks5server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|C:\\Users\\qswav\\Desktop\\Socks5Server\\socks5server\\socksserver\\socks5server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|solutionrelative:socks5server\\socksserver\\socks5server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|C:\\Users\\qswav\\Desktop\\Socks5Server\\socks5server\\socks\\authtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43ABA451-964A-45BF-8AEF-2E1E50500663}|Socks5Server\\Socks5Server.csproj|solutionrelative:socks5server\\socks\\authtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SocksRequest.cs",
+              "DocumentMoniker": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\socks\\SocksRequest.cs",
+              "RelativeDocumentMoniker": "Socks5Server\\socks\\SocksRequest.cs",
+              "ToolTip": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\socks\\SocksRequest.cs",
+              "RelativeToolTip": "Socks5Server\\socks\\SocksRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T14:03:02.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StreamTypes.cs",
+              "DocumentMoniker": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\socks\\StreamTypes.cs",
+              "RelativeDocumentMoniker": "Socks5Server\\socks\\StreamTypes.cs",
+              "ToolTip": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\socks\\StreamTypes.cs",
+              "RelativeToolTip": "Socks5Server\\socks\\StreamTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:53:35.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\TCP\\Client.cs",
+              "RelativeDocumentMoniker": "Socks5Server\\TCP\\Client.cs",
+              "ToolTip": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\TCP\\Client.cs",
+              "RelativeToolTip": "Socks5Server\\TCP\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:42:27.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\TCP\\ClientEventArgs.cs",
+              "RelativeDocumentMoniker": "Socks5Server\\TCP\\ClientEventArgs.cs",
+              "ToolTip": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\TCP\\ClientEventArgs.cs",
+              "RelativeToolTip": "Socks5Server\\TCP\\ClientEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:40:33.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeaderTypes.cs",
+              "DocumentMoniker": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\socks\\HeaderTypes.cs",
+              "RelativeDocumentMoniker": "Socks5Server\\socks\\HeaderTypes.cs",
+              "ToolTip": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\socks\\HeaderTypes.cs",
+              "RelativeToolTip": "Socks5Server\\socks\\HeaderTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:41:27.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressTypes.cs",
+              "DocumentMoniker": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\socks\\AddressTypes.cs",
+              "RelativeDocumentMoniker": "Socks5Server\\socks\\AddressTypes.cs",
+              "ToolTip": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\socks\\AddressTypes.cs",
+              "RelativeToolTip": "Socks5Server\\socks\\AddressTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:54:04.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TcpServer.cs",
+              "DocumentMoniker": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\TCP\\TcpServer.cs",
+              "RelativeDocumentMoniker": "Socks5Server\\TCP\\TcpServer.cs",
+              "ToolTip": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\TCP\\TcpServer.cs",
+              "RelativeToolTip": "Socks5Server\\TCP\\TcpServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:54:56.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Socks5Server.cs",
+              "DocumentMoniker": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\socksServer\\Socks5Server.cs",
+              "RelativeDocumentMoniker": "Socks5Server\\socksServer\\Socks5Server.cs",
+              "ToolTip": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\socksServer\\Socks5Server.cs",
+              "RelativeToolTip": "Socks5Server\\socksServer\\Socks5Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:44:24.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthTypes.cs",
+              "DocumentMoniker": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\socks\\AuthTypes.cs",
+              "RelativeDocumentMoniker": "Socks5Server\\socks\\AuthTypes.cs",
+              "ToolTip": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\socks\\AuthTypes.cs",
+              "RelativeToolTip": "Socks5Server\\socks\\AuthTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:43:09.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\Program.cs",
+              "RelativeDocumentMoniker": "Socks5Server\\Program.cs",
+              "ToolTip": "C:\\Users\\qswav\\Desktop\\Socks5Server\\Socks5Server\\Program.cs",
+              "RelativeToolTip": "Socks5Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:11:47.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

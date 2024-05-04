@@ -12,6 +12,7 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -45,9 +46,20 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="socksServer\Socks5Server.cs" />
+    <Compile Include="socks\AddressTypes.cs" />
+    <Compile Include="socks\AuthTypes.cs" />
+    <Compile Include="socks\HeaderTypes.cs" />
+    <Compile Include="socks\SocksRequest.cs" />
+    <Compile Include="socks\StreamTypes.cs" />
+    <Compile Include="TCP\Client.cs" />
+    <Compile Include="TCP\ClientEventArgs.cs" />
+    <Compile Include="TCP\DataEventArgs.cs" />
+    <Compile Include="TCP\TcpServer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

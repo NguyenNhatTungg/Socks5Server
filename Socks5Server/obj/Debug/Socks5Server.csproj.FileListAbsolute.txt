@@ -1,0 +1,7 @@
+C:\Users\qswav\Desktop\Socks5Server\Socks5Server\bin\Debug\Socks5Server.exe.config
+C:\Users\qswav\Desktop\Socks5Server\Socks5Server\bin\Debug\Socks5Server.exe
+C:\Users\qswav\Desktop\Socks5Server\Socks5Server\bin\Debug\Socks5Server.pdb
+C:\Users\qswav\Desktop\Socks5Server\Socks5Server\obj\Debug\Socks5Server.csproj.AssemblyReference.cache
+C:\Users\qswav\Desktop\Socks5Server\Socks5Server\obj\Debug\Socks5Server.csproj.CoreCompileInputs.cache
+C:\Users\qswav\Desktop\Socks5Server\Socks5Server\obj\Debug\Socks5Server.exe
+C:\Users\qswav\Desktop\Socks5Server\Socks5Server\obj\Debug\Socks5Server.pdb
